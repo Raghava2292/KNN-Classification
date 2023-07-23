@@ -1,0 +1,7 @@
+Task - 1
+
+    Using the KNN classification, classify the animals in the zoo dataset into different types.
+
+Task - 2
+
+    Using the KNN classification, classify different categories of glasses based on the compositions.
